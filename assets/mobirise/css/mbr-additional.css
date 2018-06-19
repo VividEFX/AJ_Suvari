@@ -1628,6 +1628,34 @@ body {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
+.cid-qVrPlqu7tt {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qVrPlqu7tt .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qVrPlqu7tt .blockquote-quote svg {
+  height: 30px;
+  width: 30px;
+}
+.cid-qVrPlqu7tt svg.svg-gradient {
+  position: absolute;
+  opacity: 0;
+  z-index: -100;
+}
+.cid-qVrPlqu7tt .signature > span {
+  color: #ffbc00;
+}
+@media (max-width: 767px) {
+  .cid-qVrPlqu7tt .blockquote-quote {
+    text-align: left;
+  }
+  .cid-qVrPlqu7tt .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-qVrpjtYXAC {
   padding-top: 120px;
   padding-bottom: 120px;
